@@ -1,0 +1,6 @@
+# ddgs      -> web_search tool
+# openpyxl  -> Excel tools
+# groq      -> only needed if you choose Groq (cloud). Ollama needs no extra package.
+ddgs
+openpyxl
+groq
